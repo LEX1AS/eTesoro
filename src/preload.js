@@ -13,8 +13,3 @@ document.addEventListener("mousemove", (event) => {
         document.getElementById("content").style.marginLeft = "0";
     }
 })
-//     } else {
-//         document.getElementById("sidebar").style.left = "-250px";
-//         document.getElementById("content").style.marginLeft = "0";
-//     }
-// });
